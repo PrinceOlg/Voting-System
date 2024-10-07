@@ -1,0 +1,10 @@
+C:\Users\ameer\OneDrive\Desktop\Olaguera_Prince\JomaVote\JomaVote\bin\Debug\JomaVote.exe.config
+C:\Users\ameer\OneDrive\Desktop\Olaguera_Prince\JomaVote\JomaVote\bin\Debug\JomaVote.exe
+C:\Users\ameer\OneDrive\Desktop\Olaguera_Prince\JomaVote\JomaVote\bin\Debug\JomaVote.pdb
+C:\Users\ameer\OneDrive\Desktop\Olaguera_Prince\JomaVote\JomaVote\obj\Debug\JomaVote.csproj.AssemblyReference.cache
+C:\Users\ameer\OneDrive\Desktop\Olaguera_Prince\JomaVote\JomaVote\obj\Debug\JomaVote.JomaVote.resources
+C:\Users\ameer\OneDrive\Desktop\Olaguera_Prince\JomaVote\JomaVote\obj\Debug\JomaVote.Properties.Resources.resources
+C:\Users\ameer\OneDrive\Desktop\Olaguera_Prince\JomaVote\JomaVote\obj\Debug\JomaVote.csproj.GenerateResource.cache
+C:\Users\ameer\OneDrive\Desktop\Olaguera_Prince\JomaVote\JomaVote\obj\Debug\JomaVote.csproj.CoreCompileInputs.cache
+C:\Users\ameer\OneDrive\Desktop\Olaguera_Prince\JomaVote\JomaVote\obj\Debug\JomaVote.exe
+C:\Users\ameer\OneDrive\Desktop\Olaguera_Prince\JomaVote\JomaVote\obj\Debug\JomaVote.pdb
